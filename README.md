@@ -2,7 +2,7 @@
 
 A beautiful and intuitive mobile app for counting mantras, prayers, or affirmations with target tracking and vibration notifications.
 
-![Mantra Counter Screenshot](screenshot.jpg)
+<img src="screenshot.jpg" alt="Mantra Counter Screenshot" width="300" />
 
 ## Features ✨
 
@@ -24,7 +24,7 @@ A beautiful and intuitive mobile app for counting mantras, prayers, or affirmati
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mantra-counter.git
+   git clone https://github.com/samipevekar/Mantra-Counter-assignment-.git
    cd mantra-counter
     ```
 2. Install dependencies
